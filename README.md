@@ -21,3 +21,8 @@ for Github training.
 This is a simple web project, deployment can be on any web server or 
 even local file system.
 
+
+### Copyright
+
+2014 Git Training
+
